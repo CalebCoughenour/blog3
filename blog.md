@@ -22,3 +22,5 @@ Seriously, there's a taco for every one out there! You can get a few different k
 * Flour
 
 Check out your local taco shop [Here](https://example.com/tacoshop)
+
+![A photo of a tacos](https://example.com/tacos)
